@@ -26,3 +26,14 @@ body {
   display: flex;
   width: 100%;
 }
+
+figure {
+  position: relative;
+  max-width: 15em;
+}
+
+figcaption {
+  position: absolute;
+  left: 1em;
+  bottom: 5em;
+}
