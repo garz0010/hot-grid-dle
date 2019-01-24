@@ -34,6 +34,6 @@ figure {
 
 figcaption {
   position: absolute;
-  left: 1em;
-  bottom: 5em;
+  left: 1rem;
+  bottom: .5rem;
 }
