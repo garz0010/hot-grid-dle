@@ -30,13 +30,16 @@ body {
 
 figure {
   position: relative;
-  max-width: 15em;
   margin: 0;
 }
 
 figcaption {
   position: absolute;
-  left: 1rem;
+  left: .5rem;
   bottom: .5rem;
-  background-color: grey;
+  background-color:rgba(0, 0, 0, .5);
+  color: #fff;
+  padding: 1em;
+  max-width: 15em;
+  border-radius: 1rem;
 }
